@@ -8,9 +8,9 @@ Are you fed up with windows not giving you notification to charge your battery, 
 * psutil module
 
 ## Installation
-* Install win10toast using: \n
+* Install win10toast using: \
  **pip install win10toast**
- * \n Install psutil using: \n
+ * Install psutil using: \
  **pip install psutil**
 
 ## Deployment
