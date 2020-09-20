@@ -14,4 +14,4 @@ Are you fed up with windows not giving you notification to charge your battery, 
  **pip install psutil**
 
 ## Deployment
-clone this repository and run the battery_care.pyw every time u open the system.
+Clone this repository and run the *battery_care.pyw* every time you open the system.
